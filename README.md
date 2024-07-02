@@ -7,6 +7,13 @@ The dataset contains 75 manually annotated images of size 512×512 pix with pixe
 
 
 ## Reference
-For reference and citation please use (will be updated shortly):
-
-Benz, C., Debus, P., Ha, H.-K. & Rodehorst, V. (2019): Crack Segmentation on UAS-based Imagery using Transfer Learning. *Image and Vision Computing New Zealand*, IVCNZ, Dunedin.
+```
+@inproceedings{benz2019crack,
+  title={Crack segmentation on UAS-based imagery using transfer learning},
+  author={Benz, Christian and Debus, Paul and Ha, Huy Khanh and Rodehorst, Volker},
+  booktitle={2019 International Conference on Image and Vision Computing New Zealand (IVCNZ)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+```
